@@ -6,8 +6,8 @@
       "release_year": 1980,
       "description": "Camp counselors are stalked and murdered by an unknown assailant while trying to reopen a summer camp that was the site of a child's drowning.",
       "image": "./assets/f13-1.jpeg",
-      "watched": true,
-      "blood_amount": 15
+      "watched": false,
+      "blood_amount": 10
     },
     {
       "id": 2,
@@ -15,8 +15,8 @@
       "release_year": 1981,
       "description": "Five years after the horrible bloodbath at Camp Crystal Lake, it seems Jason Voorhees and his demented mother are in the past. Paul opens up a new camp close to the infamous site, ignoring warnings to stay away, and a sexually-charged group of counselors follow -- including child psychologist major Ginny. But Jason has been hiding out all this time, and now he's ready for revenge.",
       "image": "./assets/f13-2.jpeg",
-      "watched": true,
-      "blood_amount": 15
+      "watched": false,
+      "blood_amount": 5
     },
     {
       "id": 3,
@@ -24,8 +24,8 @@
       "release_year": 1982,
       "description": "An idyllic summer turns into a nightmare of unspeakable terror for yet another group of naive counselors. Ignoring Camp Crystal Lake's bloody legacy, one by one they fall victim to the maniacal Jason who stalks them at every turn.",
       "image": "./assets/f13-3.jpeg",
-      "watched": true,
-      "blood_amount": 15
+      "watched": false,
+      "blood_amount": 0
     },
     {
       "id": 4,
@@ -33,8 +33,8 @@
       "release_year": 1984,
       "description": "After being mortally wounded and taken to the morgue, murderer Jason Voorhees spontaneously revives and embarks on a killing spree as he makes his way back to his home at Crystal Lake.",
       "image": "./assets/f13-finalchapter.jpeg",
-      "watched": true,
-      "blood_amount": 15
+      "watched": false,
+      "blood_amount": 0
     },
     {
       "id": 5,
@@ -42,7 +42,7 @@
       "release_year": 1985,
       "description": "Homicidal maniac Jason returns from the grave to cause more bloody mayhem. Young Tommy may have escaped from Crystal Lake, but he’s still haunted by the gruesome events that happened there. When gory murders start happening at the secluded halfway house for troubled teens where he now lives, it seems like his nightmarish nemesis, Jason, is back for more sadistic slaughters.",
       "image": "./assets/f13-newbeginning.jpeg",
-      "watched": true,
+      "watched": false,
       "blood_amount": 0
     },
     {
@@ -51,7 +51,7 @@
       "release_year": 1986,
       "description": "Determined to finish off the infamous killer Jason Voorhees once and for all, Tommy Jarvis and a friend exhume Jason’s corpse in order to cremate him. Things go awry when Jason is instead resurrected, sparking a new chain of ruthlessly brutal murders. Now it’s up to Tommy to stop the dark, devious and demented deaths that he unwittingly brought about.",
       "image": "./assets/f13-jasonlives.jpeg",
-      "watched": true,
+      "watched": false,
       "blood_amount": 0
     },
     {
@@ -60,7 +60,7 @@
       "release_year": 1988,
       "description": "A young girl who possesses the power of telekinesis accidentally causes her father's death after a family dispute at Crystal Lake. Years later, when a doctor tries to exploit her abilities, her power becomes a hellish curse, and she unwittingly unchains the merciless, bloodthirsty Jason Voorhees from his watery grave.",
       "image": "./assets/f13-newblood.jpeg",
-      "watched": true,
+      "watched": false,
       "blood_amount": 0
     },
     {
