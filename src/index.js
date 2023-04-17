@@ -35,20 +35,11 @@ document.addEventListener('DOMContentLoaded', () => {
           blood_amount: newBloodAmount
         })
       })
-        .then(response => {
-          if (!response.ok) {
-            throw new Error('Network response was not ok');
-          }
-          return response.json();
-        })
         .then(updatedMovie => {
           movie.blood_amount = updatedMovie.blood_amount;
           movieBloodAmount.textContent = updatedMovie.blood_amount;
           bloodForm.reset();
         })
-        .catch(error => {
-          console.error('Error:', error);
-        });
     }
   
     function addBlood(event) {
@@ -73,12 +64,6 @@ document.addEventListener('DOMContentLoaded', () => {
           watched: currentMovie.watched
         })
       })
-        .then(response => {
-          if (!response.ok) {
-            throw new Error('Network response was not ok');
-          }
-          return response.json();
-        })
         .then(updatedMovie => {
           currentMovie = updatedMovie;
           if (updatedMovie.watched === false) {
@@ -87,9 +72,6 @@ document.addEventListener('DOMContentLoaded', () => {
             movieWatched.textContent = 'Watched';
           }
         })
-        .catch(error => {
-          console.error('Error:', error);
-        });
     }
   
     function addMoviesToDOM(movies) {
